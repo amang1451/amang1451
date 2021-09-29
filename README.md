@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?size=626&ext=jpg"></img>
+<img src = "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?size=626&ext=jpg" style = "width:100vw;"></img>
 <h1 align = "center">Hi there 👋 I'm Aman Gupta</h1>
  
 <h3 align="center">Android Developer</h3>
